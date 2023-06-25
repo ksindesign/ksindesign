@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am new to web development and still figuring out how to use github and version control.
+
 <!--
 **ksindesign/ksindesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
