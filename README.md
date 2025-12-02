@@ -1,5 +1,9 @@
 # Hi there 👋
 
+I am working mainly on the front-end now.
+I worked as a web designer but turned out feeling more interest in the programming world.
+Let's create things that can make the world better.
+
 ## My Skill Set
 ### Frontend
 
