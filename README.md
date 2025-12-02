@@ -1,18 +1,21 @@
 # Hi there 👋
 
-I am working mainly on the front-end now.
-I worked as a web designer but turned out feeling more interest in the programming world.
-Let's create things that can make the world better.
+I am working mainly on the front-end now. I worked as a web designer but turned
+out feeling more interest in the programming world. Let's create things that can
+make the world better.
 
 ## My Skill Set
+
 ### Frontend
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![N extJS Badge](https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs)
+![NextJS Badge](https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat)
+![SCSS Badge](https://img.shields.io/badge/SCSS-1572B6?logo=scss&logoColor=fff&style=flat)
 
 ### API
 
