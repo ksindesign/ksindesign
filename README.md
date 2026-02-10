@@ -4,6 +4,14 @@ I am working mainly on the front-end now. I worked as a web designer but turned
 out feeling more interest in the programming world. Let's create things that can
 make the world better.
 
+My favorite tools:
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![NextJS Badge](https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat)
+![SASS Badge](https://img.shields.io/badge/SASS-1572B6?logo=sass&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+
+
 ## My Skill Set
 
 ### Frontend
@@ -34,7 +42,6 @@ make the world better.
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 
 ### Editors
-
 ![Cursor Badge](https://img.shields.io/badge/Cursor-333333?logo=cursor&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
