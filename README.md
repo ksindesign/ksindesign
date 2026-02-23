@@ -18,10 +18,7 @@ make the world better.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Wordpress](https://img.shields.io/badge/WORDPRESS-777BB4?style=for-the-badge&logo=wordpress&logoColor=fff)
 
-### Connect with me
-
-[Learn React (my first Scrimba course!)](https://scrimba.com/learn-react-c0e)
-
+### Recommend
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u41ce714)
 
 ---
