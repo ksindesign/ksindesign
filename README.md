@@ -21,6 +21,7 @@ make the world better.
 ### Connect with me
 
 [Learn React (my first Scrimba course!)](https://scrimba.com/learn-react-c0e)
+
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u41ce714)
 
 ---
