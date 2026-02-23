@@ -4,17 +4,36 @@ I am working mainly on the front-end now. I worked as a web designer but turned
 out feeling more interest in the programming world. Let's create things that can
 make the world better.
 
-My favorite tools:
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![NextJS Badge](https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=flat)
-![SASS Badge](https://img.shields.io/badge/SASS-1572B6?logo=sass&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+### 🛠️ My Toolkit
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![SASS](https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=sass&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Wordpress](https://img.shields.io/badge/WORDPRESS-777BB4?style=for-the-badge&logo=wordpress&logoColor=fff)
 
-## My Skill Set
+### Connect with me
 
-### Frontend
+[Learn React (my first Scrimba course!)](https://scrimba.com/learn-react-c0e)
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u41ce714)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksindesign&theme=dark)](https://git.io/streak-stats)
+
+---
+
+# My Skill Set
+
+## Frontend
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -42,6 +61,7 @@ My favorite tools:
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 
 ### Editors
+
 ![Cursor Badge](https://img.shields.io/badge/Cursor-333333?logo=cursor&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
