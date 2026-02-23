@@ -60,7 +60,7 @@ make the world better.
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 
-### Editors
+### IDE
 
 ![Cursor Badge](https://img.shields.io/badge/Cursor-333333?logo=cursor&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
