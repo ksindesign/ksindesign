@@ -24,12 +24,6 @@ make the world better.
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksindesign&theme=dark)](https://git.io/streak-stats)
-
----
-
 # My Skill Set
 
 ## Frontend
